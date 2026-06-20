@@ -1,1 +1,120 @@
-IyBpb3QtbW9uaXRvcgoKUGxhdGFmb3JtYSBkZSAqKm1vbml0b3JhbWVudG8gSW9UKiogY29tIE1RVFQsIE5vZGUuanMgZSBJbmZsdXhEQiDigJQgY29sZXRhLCBhcm1hemVuYW1lbnRvIGUgdmlzdWFsaXphw6fDo28gZGUgZGFkb3MgZGUgc2Vuc29yZXMgZW0gdGVtcG8gcmVhbCBjb20gZGFzaGJvYXJkIEdyYWZhbmEuCgotLS0KCiMjIFN0YWNrIFRlY25vbMOzZ2ljYQoKLSBbTm9kZS5qcyAxOCtdKGh0dHBzOi8vbm9kZWpzLm9yZy8pCi0gW01RVFQuanNdKGh0dHBzOi8vZ2l0aHViLmNvbS9tcXR0anMvTVFUVC5qcykgKHByb3RvY29sbyBJb1QpCi0gW01vc3F1aXR0b10oaHR0cHM6Ly9tb3NxdWl0dG8ub3JnLykgKGJyb2tlciBNUVRUKQotIFtJbmZsdXhEQiAyLnhdKGh0dHBzOi8vd3d3LmluZmx1eGRhdGEuY29tLykgKHPDqXJpZSB0ZW1wb3JhbCkKLSBbR3JhZmFuYV0oaHR0cHM6Ly9ncmFmYW5hLmNvbS8pIChkYXNoYm9hcmQpCi0gW0RvY2tlciBDb21wb3NlXShodHRwczovL3d3dy5kb2NrZXIuY29tLykKCi0tLQoKIyMgRXN0cnV0dXJhIGRlIFBhc3RhcwoKYGBgCmlvdC1tb25pdG9yLwrilJzilIDilIAgc3JjLwrilILCoCDilJzilIDilIAgYnJva2VyLyAgICAgICAgICAgIyBDb25maWd1cmHDp8OjbyBNb3NxdWl0dG8K4pSCwqAg4pSc4pSA4pSAIHN1YnNjcmliZXIvICAgICAgIyBMZWl0dXJhIGRvcyB0w7NwaWNvcyBNUVRUCuKUgsKgIOKUnOKUgOKUgCBpbmdlc3Rpb24vICAgICAgICAjIEdyYXZhw6fDo28gbm8gSW5mbHV4REIK4pSCwqAg4pSc4pSA4pSAIGFwaS8gICAgICAgICAgICAgIyBSRVNUIEFQSSBwYXJhIGNvbnN1bHRhcwrilILCoCDilJTilIDilIAgYWxlcnRzLyAgICAgICAgICAgIyBBbGVydGFzIGUgbm90aWZpY2HDp8O1ZXMKLeKUnOKUgOKUgCBncmFmYW5hLwrilILCoCDilJTilIDilIAgZGFzaGJvYXJkcy8gICAgICAjIEpTT05zIGRvcyBkYXNoYm9hcmRzCuKUnOKUgOKUgCBpbmZsdXhkYi8KLeKUlOKUgOKUgCBkb2NrZXItY29tcG9zZS55bWwgICMgT3JxdWVzdHJhw6fDo28gY29tcGxldGEKYGBgCgotLS0KCiMjIFByw6ktcmVxdWlzaXRvcwoKLSBEb2NrZXIgZSBEb2NrZXIgQ29tcG9zZQotIE5vZGUuanMgMTgrIChzZSByb2RhciBzZW0gRG9ja2VyKQoKLS0tCgojIyBJbnN0YWxhw6fDo28gTG9jYWwgKGNvbSBEb2NrZXIgLSByZWNvbWVuZGFkbykKCiMjIyAxLiBDbG9uZSBvIHJlcG9zaXTDs3JpbwoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1R1bGlvc3Bpbi9pb3QtbW9uaXRvci5naXQKY2QgaW90LW1vbml0b3IKYGBgCgojIyMgMi4gQ29uZmlndXJlIGFzIHZhcmnDoXZlaXMgZGUgYW1iaWVudGUKCmBgYGJhc2gKY3AgLmVudi5leGFtcGxlIC5lbnYKYGBgCgpFZGl0ZSBvIGAuZW52YDoKCmBgYGVudgpJTkZMVVhEQl9VUkw9aHR0cDovL2xvY2FsaG9zdDo4MDg2CklORkxVWERCX1RPS0VOPXNldS10b2tlbi1hcXVpCklORkxVWERCX09SRz1taW5oYS1vcmcKSU5GTFVYREJfQlVDS0VUPWlvdC1kYXRhCk1RVFRfQlJPS0VSPWxvY2FsaG9zdApNUVRUX1BPUlQ9MTg4MwpgYGAKCiMjIyAzLiBTdWJhIHRvZG9zIG9zIHNlcnZpw6dvcwoKYGBgYmFzaApkb2NrZXIgY29tcG9zZSB1cCAtZApgYGAKCiMjIyA0LiBBY2Vzc2Ugb3Mgc2VydmnDp29zCgp8IFNlcnZpw6dvIHwgVVJMIHwKfC0tLS0tLS18LS0tLS18CnwgR3JhZmFuYSBEYXNoYm9hcmQgfCBodHRwOi8vbG9jYWxob3N0OjMwMDAgfAp8IEluZmx1eERCIFVJIHwgaHR0cDovL2xvY2FsaG9zdDo4MDg2IHwKfCBBUEkgTm9kZS5qcyB8IGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMSB8CnwgTVFUVCBCcm9rZXIgfCBsb2NhbGhvc3Q6MTg4MyB8CgotLS0KCiMjIEluc3RhbGHDp8OjbyBMb2NhbCAoc2VtIERvY2tlcikKCiMjIyAxLiBJbnN0YWxlIGFzIGRlcGVuZMOqbmNpYXMgTm9kZQoKYGBgYmFzaApucG0gaW5zdGFsbApgYGAKCiMjIyAyLiBJbmljaWUgbyBzdWJzY3JpYmVyIE1RVFQKCmBgYGJhc2gKbm9kZSBzcmMvc3Vic2NyaWJlci9pbmRleC5qcwpgYGAKCiMjIyAzLiBJbmljaWUgYSBBUEkKCmBgYGJhc2gKbm9kZSBzcmMvYXBpL3NlcnZlci5qcwpgYGAKCi0tLQoKIyMgRnVuY2lvbmFsaWRhZGVzCgotIPCfk6YgQ29sZXRhIGRlIGRhZG9zIHZpYSBNUVRUCi0g8J+SvyBBcm1hemVuYW1lbnRvIGVmaWNpZW50ZSBlbSBzw6lyaWUgdGVtcG9yYWwgKEluZmx1eERCKQotIPCfk4ogRGFzaGJvYXJkIEdyYWZhbmEgcGFyYSB2aXN1YWxpemHDp8OjbyBlbSB0ZW1wbyByZWFsCi0g8J+UoCBBbGVydGFzIHBvciBlLW1haWwvd2ViaG9vayBwYXJhIGFub21hbGlhcwotIPCfk4kgQVBJIFJFU1QgcGFyYSBjb25zdWx0YSBoaXN0w7NyaWNhCgotLS0KCiMjIExpY2Vuw6dhCgpNSVQgTGljZW5zZSCCqSAyMDI2IFTDumxpbyBTaWx2YQo=
+# iot-monitor
+
+Plataforma de **monitoramento IoT** com MQTT, Node.js e InfluxDB — coleta, armazenamento e visualização de dados de sensores em tempo real com dashboard Grafana.
+
+---
+
+## Stack Tecnológica
+
+- [Node.js 18+](https://nodejs.org/)
+- [MQTT.js](https://github.com/mqttjs/MQTT.js) (protocolo IoT)
+- [Mosquitto](https://mosquitto.org/) (broker MQTT)
+- [InfluxDB 2.x](https://www.influxdata.com/) (série temporal)
+- [Grafana](https://grafana.com/) (dashboard)
+- [Docker Compose](https://www.docker.com/)
+
+---
+
+## Estrutura de Pastas
+
+```
+iot-monitor/
+├── src/
+│   ├── broker/        # Configuração Mosquitto
+│   ├── subscriber/    # Leitura dos tópicos MQTT
+│   ├── ingestion/     # Gravação no InfluxDB
+│   ├── api/           # REST API para consultas
+│   └── alerts/        # Alertas e notificações
+├── grafana/
+│   └── dashboards/    # JSONs dos dashboards
+├── influxdb/
+└── docker-compose.yml  # Orquestração completa
+```
+
+---
+
+## Pré-requisitos
+
+- Docker e Docker Compose
+- Node.js 18+ (se rodar sem Docker)
+
+---
+
+## Instalação Local (com Docker - recomendado)
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Tuliospin/iot-monitor.git
+cd iot-monitor
+```
+
+### 2. Configure as variáveis de ambiente
+
+```bash
+cp .env.example .env
+```
+
+Edite o `.env`:
+
+```env
+INFLUXDB_URL=http://localhost:8086
+INFLUXDB_TOKEN=seu-token-aqui
+INFLUXDB_ORG=minha-org
+INFLUXDB_BUCKET=iot-data
+MQTT_BROKER=localhost
+MQTT_PORT=1883
+```
+
+### 3. Suba todos os serviços
+
+```bash
+docker compose up -d
+```
+
+### 4. Acesse os serviços
+
+| Serviço | URL |
+|---------|-----|
+| Grafana Dashboard | http://localhost:3000 |
+| InfluxDB UI | http://localhost:8086 |
+| API Node.js | http://localhost:3001 |
+| MQTT Broker | localhost:1883 |
+
+---
+
+## Instalação Local (sem Docker)
+
+### 1. Instale as dependências Node
+
+```bash
+npm install
+```
+
+### 2. Inicie o subscriber MQTT
+
+```bash
+node src/subscriber/index.js
+```
+
+### 3. Inicie a API
+
+```bash
+node src/api/server.js
+```
+
+---
+
+## Funcionalidades
+
+- 📦 Coleta de dados via MQTT
+- 💿 Armazenamento eficiente em série temporal (InfluxDB)
+- 📊 Dashboard Grafana para visualização em tempo real
+- 🔔 Alertas por e-mail/webhook para anomalias
+- 📉 API REST para consulta histórica
+
+---
+
+## Licença
+
+MIT License © 2026 Túlio Silva
